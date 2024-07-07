@@ -6,7 +6,10 @@ I am a passionate QA Automation Engineer with over 10 years of experience in the
 
 - 🌱 I’m currently learning advanced automation tools and techniques.
 - 💬 Ask me about anything related to QA, automation frameworks, and best practices.
-- 📫 How to reach me: jignac91@gmail.com | [LinkedIn Profile] | 
+- ## 🤝 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jigna-chavda-18017483/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jignac91@gmail.com)
 
 ## 🔧 Technologies & Tools
 
@@ -42,13 +45,6 @@ I am a passionate QA Automation Engineer with over 10 years of experience in the
 - **[Previous Position]** at [Previous Company] (Year-Year)
   - Brief description of your role and responsibilities.
 
-## 📫 Contact Me
-
-- Email: [your-email@example.com]
-- LinkedIn: [your-linkedin-profile]
-- Twitter: [your-twitter-handle]
-
-
 ## 💡 Projects
 
 - **Cross Boarder Shipping service**
@@ -59,8 +55,4 @@ I am a passionate QA Automation Engineer with over 10 years of experience in the
   - Brief description of the project.
   - [GitHub Repository Link](https://github.com/your-github-username/project-repo)
 
-## 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter-handle)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
