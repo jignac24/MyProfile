@@ -26,6 +26,16 @@ The following are some skills and highlights of my experience:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jigna-chavda-18017483/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jignac91@gmail.com)
 
+## 💡 Projects
+
+- **Cross Boarder Shipping service**
+  - UI Automation in Selenium, Python
+  - [GitHub Repository Link](https://github.com/Jigna210/AutomationScript)
+
+- **API Validation with Cypress**
+  - Developed Test scripts for API Validation [GET, POST, DELETE] in Cypress
+  - [GitHub Repository Link](https://github.com/jignac24/cypressProject/tree/APITestscripts)
+
 ## 🔧 Technologies & Tools
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -81,14 +91,6 @@ The following are some skills and highlights of my experience:
     - Generated Test Result and share with architect
     - Perform API testing with XML/JSON endpoints using POSTMAN.
 
-## 💡 Projects
 
-- **Cross Boarder Shipping service**
-  - UI Automation in Selenium, Python
-  - [GitHub Repository Link](https://github.com/Jigna210/AutomationScript)
-
-- **API Validation with Cypress**
-  - Developed Test scripts for API Validation [GET, POST, DELETE] in Cypress
-  - [GitHub Repository Link](https://github.com/jignac24/cypressProject/tree/APITestscripts)
 
 
