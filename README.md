@@ -89,6 +89,6 @@ The following are some skills and highlights of my experience:
 
 - **API Validation with Cypress**
   - Developed Test scripts for API Validation [GET, POST, DELETE] in Cypress
-  - [GitHub Repository Link](https://github.com/jignac24/cypressProject)
+  - [GitHub Repository Link](https://github.com/jignac24/cypressProject/tree/APITestscripts)
 
 
