@@ -84,11 +84,11 @@ The following are some skills and highlights of my experience:
 ## 💡 Projects
 
 - **Cross Boarder Shipping service**
-  - Brief description of the project.
+  - UI Automation in Selenium, Python
   - [GitHub Repository Link](https://github.com/Jigna210/AutomationScript)
 
-- **[Project Name]**
-  - Brief description of the project.
-  - [GitHub Repository Link](https://github.com/your-github-username/project-repo)
+- **API Validation with Cypress**
+  - Developed Test scripts for API Validation [GET, POST, DELETE] in Cypress
+  - [GitHub Repository Link](https://github.com/jignac24/cypressProject)
 
 
