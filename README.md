@@ -36,6 +36,10 @@ The following are some skills and highlights of my experience:
   - Developed Test scripts for API Validation [GET, POST, DELETE] in Cypress
   - [GitHub Repository Link](https://github.com/jignac24/cypressProject/tree/APITestscripts)
 
+- **Playwright and Java**
+  - Developed UI Test scripts in Playwright
+  - [GitHub Repository Link](https://github.com/jignac24/playwrightTest/tree/master)
+
 ## 🔧 Technologies & Tools
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
