@@ -82,7 +82,7 @@ The following are some skills and highlights of my experience:
     - Designed, developed Kubernetes cluster and applications
     - Identified and documented defects and ensure timely resolution
     - Executed test suite on Azure Pipeline and maintaining and integrated them .
-- **[Sr. Automation Engineer,]** at [Upwork] (2021-2023)
+- **[Sr. Automation Engineer,]** B2B (2021-2023)
     - Developed and maintained test script using selenium and Python, pytest
     - Developed Automation Framework from scratch in POM and Data-Driven-Framework
     - Developed tests to implement test scenarios and features for BDD using cucumber in Gherkins format.
