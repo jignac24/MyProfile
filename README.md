@@ -39,6 +39,9 @@ The following are some skills and highlights of my experience:
 - **Playwright and Java**
   - Developed UI Test scripts in Playwright
   - [GitHub Repository Link](https://github.com/jignac24/playwrightTest/tree/master)
+ 
+- **Selenium with Python and Pytest**
+  - [GitHub Repo Link](https://github.com/jignac24/SeleniumWithPython)
 
 ## 🔧 Technologies & Tools
 
