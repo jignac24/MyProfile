@@ -29,19 +29,24 @@ The following are some skills and highlights of my experience:
 ## 💡 Projects
 
 - **Cross Boarder Shipping service**
-  - UI Automation in Selenium, Python
-  - [GitHub Repository Link](https://github.com/Jigna210/AutomationScript)
+  - Developed and Designed UI Automation in Selenium, Python
+  - [GitHub Repo](https://github.com/Jigna210/AutomationScript)
 
 - **API Validation with Cypress**
-  - Developed Test scripts for API Validation [GET, POST, DELETE] in Cypress
-  - [GitHub Repository Link](https://github.com/jignac24/cypressProject/tree/APITestscripts)
+  - Developed and Designed Test scripts for API Validation [GET, POST, DELETE] in Cypress
+  - [GitHub Repo](https://github.com/jignac24/cypressProject/tree/APITestscripts)
 
 - **Playwright and Java**
-  - Developed UI Test scripts in Playwright
-  - [GitHub Repository Link](https://github.com/jignac24/playwrightTest/tree/master)
+  - Developed and Designed UI Test scripts in Playwright
+  - [GitHub Repo](https://github.com/jignac24/playwrightTest/tree/master)
  
 - **Selenium with Python and Pytest**
-  - [GitHub Repo Link](https://github.com/jignac24/SeleniumWithPython)
+  - Developed and Designed test scripts for UI Automation
+  - [GitHub Repo](https://github.com/jignac24/SeleniumWithPython)
+    
+- **Selenium with Java and TestNG**
+  - Developed and Designed Test scripts for Restful API and UI Automation
+  - [GitHub Repo](https://github.com/jignac24/RestAssuredTestJava/tree/master)
 
 ## 🔧 Technologies & Tools
 
