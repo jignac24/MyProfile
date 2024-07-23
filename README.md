@@ -11,7 +11,7 @@ The following are some skills and highlights of my experience:
 -	Involving in daily stand-up meetings and weekly sprint meetings to discuss workflow and project specifications.
 -	proficient in different phases of testing Black box testing, sanity testing, smoke testing, regression testing, retesting.
 -	Good experience with writing SQL Queries
--	Good knowledge of Cypress and JavaScript 
+-	Proficient in developing test script using Cypress/playwright with JavaScript/Typescript
 -	Good experience in API Testing using POSTMAN
 -	Working experience on selenium web driver using JAVA and Python
 -	Ability to develop automation framework from scratch and Configure CI/CD Tool such as Jenkins
