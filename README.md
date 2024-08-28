@@ -83,7 +83,7 @@ The following are some skills and highlights of my experience:
 
 ## 💼 Experience
 
-- **[Sr.Automation Engineer]** B2B (2023-Present)
+- **[Sr.Automation Engineer]** B2B
     - Developed test scenario, test plan to verify functionality
     - Developed and maintained API automation test script in PowerShell Scripting and Pester
     - Developed and maintained UI automation script using selenium and Java
